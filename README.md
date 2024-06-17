@@ -42,9 +42,3 @@ This project successfully classifies genetic mutations to aid personalized cance
 - Implementing advanced feature engineering techniques.
 - Exploring deep learning models for improved accuracy.
 - Developing real-time prediction systems for clinical use.
-
-## References
-- [Kaggle Competition](https://www.kaggle.com/c/msk-redefining-cancer-treatment/)
-- [Forbes Article](https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helpedalmost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25)
-- [YouTube Video 1](https://www.youtube.com/watch?v=UwbuW7oK8rk)
-- [YouTube Video 2](https://www.youtube.com/watch?v=qxXRKVompI8)
